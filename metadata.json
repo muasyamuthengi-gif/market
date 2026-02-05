@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Prime Gym - Premium Fitness Experience",
+  "description": "A high-conversion, modern gym website with a dark premium aesthetic, featuring program booking, merchandise shop, and membership management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
