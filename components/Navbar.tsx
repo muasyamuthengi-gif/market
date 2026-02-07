@@ -28,7 +28,7 @@ const Navbar: React.FC<NavbarProps> = ({ onOpenCart }) => {
         <div className="flex justify-between items-center h-20">
           <Link to="/" className="flex items-center space-x-2">
             <span className="font-display text-3xl font-bold tracking-tighter">
-              PRIME<span className="text-primary">GYM</span>
+              ATOMIC<span className="text-primary">FITNESS</span>
             </span>
           </Link>
 
