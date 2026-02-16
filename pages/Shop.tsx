@@ -10,7 +10,7 @@ const Shop: React.FC = () => {
     <div className="pt-32 pb-24 bg-dark min-h-screen">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mb-16">
-          <h1 className="text-5xl md:text-7xl font-display font-black uppercase mb-4 italic">ATOMIC <span className="text-primary">MERCH</span></h1>
+          <h1 className="text-5xl md:text-7xl font-display font-black uppercase mb-4 italic">ZEAL <span className="text-primary">MERCH</span></h1>
           <p className="text-gray-400 text-xl max-w-2xl">Fuel your lifestyle with high-quality apparel and supplements designed for the dedicated.</p>
         </div>
 
