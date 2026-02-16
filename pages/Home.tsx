@@ -202,7 +202,7 @@ const Home: React.FC = () => {
               <h4 className="text-primary font-bold uppercase tracking-widest mb-4">Voices Of Success</h4>
               <h2 className="text-4xl md:text-6xl font-display font-black uppercase mb-8 leading-tight">THE ZEAL <br /> COMMUNITY</h2>
               <p className="text-gray-400 text-lg mb-8 italic leading-relaxed">
-                "The atmosphere at Atomic fit is addictive. It's not just a place to workout; it's where I go to push beyond what I thought was possible. The community is elite."
+                "The atmosphere at Zeal fit is addictive. It's not just a place to workout; it's where I go to push beyond what I thought was possible. The community is elite."
               </p>
               <div className="flex items-center space-x-4">
                 <img src={TESTIMONIALS[0].avatar} alt="" className="w-16 h-16 rounded-full grayscale" />
