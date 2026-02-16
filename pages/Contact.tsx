@@ -19,7 +19,7 @@ const Contact: React.FC = () => {
               </h3>
               <p className="text-gray-400 text-lg leading-relaxed">
                 123 Elite Way, Fitness District<br />
-                thika, CA 90210
+                Kenya, CA 90210
               </p>
               <button className="mt-6 text-primary font-bold hover:underline flex items-center space-x-2">
                 <span>Open in Maps</span>
@@ -44,7 +44,7 @@ const Contact: React.FC = () => {
                   <svg className="w-6 h-6 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                   </svg>
-                  <span>hello@Atomicfit.com</span>
+                  <span>hello@zealfit.com</span>
                 </li>
               </ul>
             </div>
