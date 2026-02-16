@@ -71,7 +71,7 @@ const Home: React.FC = () => {
       <section className="py-24 bg-dark">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-6xl font-display font-black uppercase mb-4">WHY ATOMIC FITNESS?</h2>
+            <h2 className="text-4xl md:text-6xl font-display font-black uppercase mb-4">WHY ZEAL FITNESS?</h2>
             <div className="h-1.5 w-24 bg-primary mx-auto"></div>
           </div>
           
@@ -159,7 +159,7 @@ const Home: React.FC = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex flex-col md:flex-row md:items-end justify-between mb-12 space-y-4 md:space-y-0">
             <div>
-              <h2 className="text-4xl md:text-6xl font-display font-black uppercase mb-2">ATOMIC GEAR</h2>
+              <h2 className="text-4xl md:text-6xl font-display font-black uppercase mb-2">ZEAL GEAR</h2>
               <p className="text-gray-400 text-lg">High-performance merchandise for high-performance humans.</p>
             </div>
             <Link to="/shop" className="text-primary font-bold uppercase tracking-widest flex items-center space-x-2 group">
@@ -200,7 +200,7 @@ const Home: React.FC = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
               <h4 className="text-primary font-bold uppercase tracking-widest mb-4">Voices Of Success</h4>
-              <h2 className="text-4xl md:text-6xl font-display font-black uppercase mb-8 leading-tight">THE ATOMIC <br /> COMMUNITY</h2>
+              <h2 className="text-4xl md:text-6xl font-display font-black uppercase mb-8 leading-tight">THE ZEAL <br /> COMMUNITY</h2>
               <p className="text-gray-400 text-lg mb-8 italic leading-relaxed">
                 "The atmosphere at Atomic fit is addictive. It's not just a place to workout; it's where I go to push beyond what I thought was possible. The community is elite."
               </p>
