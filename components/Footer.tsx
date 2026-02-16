@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div className="space-y-6">
             <Link to="/" className="inline-block">
               <span className="font-display text-4xl font-bold tracking-tighter">
-                ATOMIC<span className="text-primary">FITNESS</span>
+                ZEAL<span className="text-primary">FITNESS</span>
               </span>
             </Link>
             <p className="text-gray-400 leading-relaxed">
@@ -70,7 +70,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="pt-10 border-t border-white/5 text-center text-gray-500 text-sm">
-          <p>&copy; {new Date().getFullYear()} Atomic fit. All rights reserved. Elevate Your Performance.</p>
+          <p>&copy; {new Date().getFullYear()} Zeal fit. All rights reserved. Elevate Your Performance.</p>
         </div>
       </div>
     </footer>
